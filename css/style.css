@@ -1,0 +1,15 @@
+* {
+  padding: 0px;
+  margin: 0px;;
+}
+
+.portfolioContainer {
+  display: flex;
+  gap:2px;
+  flex-wrap: wrap;
+}
+
+.portfolioContainer img {
+  flex: 1 1 33%;
+  width:200px;
+}
